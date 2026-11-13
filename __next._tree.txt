@@ -1,0 +1,10 @@
+:HL["/leila-paes/_next/static/chunks/3cni-78964-7l.css","style"]
+:HL["/leila-paes/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/leila-paes/fotos/c1-depois-400.webp","image",{"imageSrcSet":"/leila-paes/fotos/c1-depois-400.webp 400w, /leila-paes/fotos/c1-depois-800.webp 800w, /leila-paes/fotos/c1-depois-1080.webp 1080w","imageSizes":"200px","fetchPriority":"high"}]
+:HL["/leila-paes/fotos/sorriso-rosa-400.webp","image",{"imageSrcSet":"/leila-paes/fotos/sorriso-rosa-400.webp 400w, /leila-paes/fotos/sorriso-rosa-540.webp 540w","imageSizes":"200px","fetchPriority":"high"}]
+:HL["/leila-paes/fotos/t-alinhador-400.webp","image",{"imageSrcSet":"/leila-paes/fotos/t-alinhador-400.webp 400w, /leila-paes/fotos/t-alinhador-800.webp 800w, /leila-paes/fotos/t-alinhador-1200.webp 1200w","imageSizes":"200px","fetchPriority":"high"}]
+:HL["/leila-paes/fotos/c3-depois-400.webp","image",{"imageSrcSet":"/leila-paes/fotos/c3-depois-400.webp 400w, /leila-paes/fotos/c3-depois-540.webp 540w","imageSizes":"200px","fetchPriority":"high"}]
+:HL["/leila-paes/leila-logo-light.png","image"]
+:HL["/leila-paes/leila-mark.png","image"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"GJj7hgZawKgUoOO5djDIX","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
