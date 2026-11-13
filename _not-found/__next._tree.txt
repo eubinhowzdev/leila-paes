@@ -1,4 +1,4 @@
-:HL["/leila-paes/_next/static/chunks/3cni-78964-7l.css","style"]
+:HL["/leila-paes/_next/static/chunks/0lwp6hf_fuld9.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"GJj7hgZawKgUoOO5djDIX","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"bzGoQUAlMLmgw0ULYU6Z0","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
